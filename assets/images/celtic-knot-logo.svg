@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="50" viewBox="0 0 150 50" xmlns="http://www.w3.org/2000/svg">
+    <path d="M25,10 C25,10 40,10 40,25 C40,40 25,40 25,40 C25,40 10,40 10,25 C10,10 25,10 25,10 Z" 
+          fill="none" 
+          stroke="#007bff" 
+          stroke-width="2"/>
+    <text x="60" y="30" 
+          font-family="Arial" 
+          font-size="16" 
+          fill="#333">
+        Celtic Tuning
+    </text>
+</svg>
